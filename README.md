@@ -1,4 +1,5 @@
 # ChatGPT-Jailbreak And Bypass Prompts
+This is how you can make ChatGPT do naughty stuff ;-)
 
 - ChatGPT Bypass Prompts 1
   
